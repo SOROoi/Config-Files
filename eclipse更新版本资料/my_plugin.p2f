@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='64'>
+    <iu id='org.eclipse.jst.ws.axis2tools.feature.feature.group' name='Axis2 Tools' version='1.1.301.v201410160332'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.buildship.feature.group' name='Buildship: Eclipse Plug-ins for Gradle' version='2.2.1.v20180125-1441'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.recommenders.rcp.feature.feature.group' name='Code Recommenders for Java Developers' version='2.5.2.v20180401-1226'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.recommenders.mylyn.rcp.feature.feature.group' name='Code Recommenders Mylyn Integration' version='2.5.2.v20180401-1226'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.recommenders.news.rcp.feature.feature.group' name='Code Recommenders News Feed' version='2.5.2.v20180401-1226'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.recommenders.snipmatch.rcp.feature.feature.group' name='Code Recommenders Snipmatch' version='2.5.2.v20180401-1226'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.ws.cxf.feature.feature.group' name='CXF Web Services' version='1.1.300.v201701262158'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jpt.dbws.eclipselink.feature.feature.group' name='Dali Java Persistence Tools - EclipseLink DBWS Support' version='1.2.201.v201803161350'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jpt.jaxb.eclipselink.feature.feature.group' name='Dali Java Persistence Tools - EclipseLink JAXB Support' version='1.4.201.v201803161350'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jpt.jpa.eclipselink.feature.feature.group' name='Dali Java Persistence Tools - EclipseLink JPA Support' version='3.4.101.v201803161350'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jpt.jaxb.feature.feature.group' name='Dali Java Persistence Tools - JAXB Support' version='1.5.100.v201803012210'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jpt.jpadiagrameditor.feature.feature.group' name='Dali Java Persistence Tools - JPA Diagram Editor' version='1.2.300.v201803012210'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jpt.jpa.feature.feature.group' name='Dali Java Persistence Tools - JPA Support' version='3.5.101.v201803161350'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.eclemma.feature.feature.group' name='EclEmma Java Code Coverage' version='3.1.0.201804041601'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='1.0.0.201410260308'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.common.fproj.feature.group' name='Eclipse Faceted Project Framework' version='3.7.1.v201707201954'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.common.fproj.enablement.jdt.feature.group' name='Eclipse Faceted Project Framework JDT Enablement' version='3.10.0.v201803211504'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.java' name='Eclipse IDE for Java Developers' version='4.7.3.20180405-1200'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/technology/epp/packages/oxygen/'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jdt.feature.group' name='Eclipse Java Development Tools' version='3.13.4.v20180330-0919'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.enterprise_ui.feature.feature.group' name='Eclipse Java EE Developer Tools' version='3.9.3.v201803221418'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.web_ui.feature.feature.group' name='Eclipse Java Web Developer Tools' version='3.9.0.v201803221834'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.platform.feature.group' name='Eclipse Platform' version='4.7.3.v20180330-0640'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.pde.feature.group' name='Eclipse Plug-in Development Environment' version='3.13.4.v20180330-0640'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.rcp.feature.group' name='Eclipse RCP' version='4.7.3.v20180330-0640'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.web_ui.feature.feature.group' name='Eclipse Web Developer Tools' version='3.9.2.v201803221834'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.xml_ui.feature.feature.group' name='Eclipse XML Editors and Tools' version='3.9.2.v201803221834'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.xsl.feature.feature.group' name='Eclipse XSL Developer Tools' version='1.3.401.v201509231858'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.feature.group' name='Git integration for Eclipse' version='4.9.2.201712150930-r'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.mylyn.feature.group' name='Git integration for Eclipse - Task focused interface' version='4.9.2.201712150930-r'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jgit.feature.group' name='Java implementation of Git' version='4.9.2.201712150930-r'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='JavaScript Development Tools' version='2.1.1.v201803202007'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.ws.jaxws.dom.feature.feature.group' name='JAX-WS DOM Tools' version='1.0.302.v201504272154'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.ws.jaxws.feature.feature.group' name='JAX-WS Tools' version='1.2.300.v201701262158'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jsf.feature.feature.group' name='JSF Tools' version='3.10.0.v201803271721'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature.feature.group' name='JSF Tools - Tag Library Metadata (Apache Trinidad)' version='2.6.1.v201802231403'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.webpageeditor.feature.feature.group' name='JSF Tools - Web Page Editor' version='2.9.0.v201803271721'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.server_adapters.feature.feature.group' name='JST Server Adapters' version='3.2.400.v201711301708'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.server_adapters.ext.feature.feature.group' name='JST Server Adapters Extensions' version='3.3.601.v201711301708'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jst.server_ui.feature.feature.group' name='JST Server UI' version='3.4.300.v201709251835'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.feature.feature.group' name='m2e - Maven Integration for Eclipse (includes Incubating components)' version='1.8.3.20180227-2137'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.logback.feature.feature.group' name='m2e - slf4j over logback logging (Optional)' version='1.8.3.20180227-2137'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.sonatype.m2e.mavenarchiver.feature.feature.group' name='m2e connector for mavenarchiver pom properties' version='0.17.2.201606141937-signed-20160830073346'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.wtp.jaxrs.feature.feature.group' name='m2e-wtp - JAX-RS configurator for WTP (Optional)' version='1.3.3.20170823-1905'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.wtp.jpa.feature.feature.group' name='m2e-wtp - JPA configurator for WTP (Optional)' version='1.3.3.20170823-1905'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.wtp.jsf.feature.feature.group' name='m2e-wtp - JSF configurator for WTP (Optional)' version='1.3.3.20170823-1905'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.wtp.feature.feature.group' name='m2e-wtp - Maven Integration for WTP' version='1.3.3.20170823-1905'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.epp.mpc.feature.group' name='Marketplace Client' version='1.6.4.v20180214-1810'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/mpc/releases/1.6.4'/>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.hudson.feature.group' name='Mylyn Builds Connector: Hudson/Jenkins' version='1.15.0.v20170411-2141'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.ide_feature.feature.group' name='Mylyn Context Connector: Eclipse IDE' version='3.23.0.v20170411-2108'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.java_feature.feature.group' name='Mylyn Context Connector: Java Development' version='3.23.0.v20170411-2108'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn_feature.feature.group' name='Mylyn Task List' version='3.23.1.v20170623-0008'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.context_feature.feature.group' name='Mylyn Task-Focused Interface' version='3.23.0.v20170414-0629'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.bugzilla_feature.feature.group' name='Mylyn Tasks Connector: Bugzilla' version='3.23.1.v20170623-0008'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.git.feature.group' name='Mylyn Versions Connector: Git' version='1.15.0.v20170411-2003'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mylyn.wikitext_feature.feature.group' name='Mylyn WikiText' version='3.0.19.201711172000'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.oomph.setup.feature.group' name='Oomph Setup' version='1.9.0.v20180529-1103'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/oomph/updates/milestone/latest'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.libra.facet.feature.feature.group' name='OSGi Bundle Facet (Incubation)' version='0.3.1.201609011955'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.libra.framework.editor.feature.feature.group' name='OSGi Framework Editor (Incubation)' version='0.3.1.201609011955'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.libra.framework.feature.feature.group' name='OSGi Framework Launchers (Incubation)' version='0.3.1.201609011955'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.php.feature.group' name='PHP Development Tools (PDT)' version='5.3.0.201803070838'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.php.composer.feature.group' name='PHP Development Tools (PDT) Composer Support' version='5.3.0.201803070838'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.rap.tools.feature.feature.group' name='RAP Tools' version='3.4.2.20180404-1636'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.libra.warproducts.feature.feature.group' name='WAR Products (Incubation)' version='0.3.1.201609011955'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.server_adapters.feature.feature.group' name='WST Server Adapters' version='3.2.601.v201711302104'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/oxygen/201804111000'/>
+        <repository location='http://download.eclipse.org/releases/oxygen'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>

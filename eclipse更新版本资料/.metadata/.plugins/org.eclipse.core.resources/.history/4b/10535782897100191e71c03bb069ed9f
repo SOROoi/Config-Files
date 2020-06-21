@@ -1,0 +1,37 @@
+package 事务与JDBC连接池;
+
+/*						数据库连接池
+ 	
+ 	1.应用程序直接从数据库--获取连接（效率低）
+ 	
+		1.直接获取：从数据库获取连接(Connection)，连接释放时连接返回数据库.
+ 		2.缺点：用户每次请求都向数据库获得连接，而数据库创建连接需要消耗较大的资源，创建时间长、获得连接慢。
+ 			--假设网站一天10万访问量，数据库服务器就需要创建10万次连接，极大的浪费数据库的资源，并且极易造成数据库服务器内存溢出、拓机。
+
+ 	2.使用数据库连接池--获取连接（效率高）
+ 	
+		1.连接池获取：连接池存放n个连接(Connection)，用连接池中获得的连接与数据库交互，连接释放时返回连接池(连接池内连接数量保持恒定).
+ 		2.优点： 每次获取向连接池请求，获得连接快、降低了数据库的资源消耗
+ 			      
+
+	3.编写数据库连接池(DataSource接口)
+		
+		1.如何编写连接池：
+			1.编写连接池需实现java.sql.DataSource接口。DataSource接口中定义了两个重载的getConnection方法：
+						Connection getConnection() 
+						Connection getConnection(String username, String password)
+
+		2.实现DataSource接口，并实现连接池功能的步骤：
+			1.在DataSource构造函数中批量创建与数据库的连接，并把创建的连接加入LinkedList对象中。
+			2.实现getConnection方法，让getConnection方法每次调用时，从LinkedList中取一个Connection返回给用户。
+			3.当用户使用完Connection，调用Connection.close()方法时，Collection对象应保证将自己返回到LinkedList中,而不要把conn还给数据库。
+			（Collection保证将自己返回到LinkedList中是此处编程的难点。 
+）
+	
+	
+ */
+
+
+public class JDBC连接池 {
+
+}

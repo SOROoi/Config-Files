@@ -1,0 +1,11 @@
+package p2_HTTP协议;
+/*
+	什么是HTTP协议
+			客户端连上web服务器后，若想获得web服务器中的某个web资源，需遵守一定的通讯格式，
+			HTTP协议用于,定义客户端与web服务器通讯的格式。
+ 
+ 
+ */
+public class Http协议 {
+
+}

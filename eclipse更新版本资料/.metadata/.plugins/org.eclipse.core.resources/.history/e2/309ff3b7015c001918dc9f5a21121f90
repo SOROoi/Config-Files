@@ -1,0 +1,15 @@
+package p1_web开发介绍;
+/*
+ * Internet上供外界访问的Web资源分为：
+			静态web资源（如html 页面）：指web页面中供人们浏览的数据始终是不变。
+						(静态web资源开发技术: Html)
+			动态web资源：指web页面中供人们浏览的数据是由程序产生的，不同时间点访问web页面看到的内容各不相同。
+						(常用动态web资源开发技术：JSP/Servlet、ASP、PHP等,在Java中，动态web资源开发技术统称为Javaweb)
+			
+			
+
+
+ */
+public class WebDevelop {
+
+}

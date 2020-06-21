@@ -1,0 +1,29 @@
+package p1_response和request对象.java;
+/*
+ 	1.HttpServletResponse简介
+ 		  HttpServletResponse是服务器的响应对象。这个对象中封装了向客户端: 发送数据、发送响应头，发送响应状态码的方法。
+ 		
+ 		  request和response对象即然代表请求和响应，那我们要获取客户机提交过来的数据，只需要找request对象就行了。要向
+ 		客户机输出数据，只需要找response对象就行了。
+
+	2.发送http 响应头
+		例：response.setHeader("Content-type", "text/html;charset=UTF-8");
+	 	
+	3.控制在response中写数据的编码
+		response.setCharacterEncoding("GB2312");
+	
+	4.同时指定响应头Content-type编码和在response中写数据的编码
+	 	response.setContentType("text/html;charset=UTF-8");
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */
+public class Response和Request对象 {
+
+}

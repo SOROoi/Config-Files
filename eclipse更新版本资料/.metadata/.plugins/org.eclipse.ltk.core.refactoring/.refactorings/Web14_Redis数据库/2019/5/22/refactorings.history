@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Web14_Java程序操作Redis/src/redis操作/day27--Redis.pdf&apos; to &apos;Redis.pdf&apos;" description="Rename resource &apos;day27--Redis.pdf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/redis操作/day27--Redis.pdf" name="Redis.pdf" stamp="1559010236839" updateReferences="true"/>
+</session>

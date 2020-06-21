@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyServlet.java&apos; to &apos;Web05_Request与Response/src/p1_response和request对象.java&apos;&#x0D;&#x0A;- Original project: &apos;AAAA&apos;&#x0D;&#x0A;- Destination element: &apos;Web05_Request与Response/src/p1_response和request对象.java&apos;&#x0D;&#x0A;- Original element: &apos;controller.MyServlet.java&apos;" description="Copy compilation unit" destination="=Web05_Request与Response/src&lt;p1_response和request对象.java" element1="/src&lt;controller{MyServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1590654767964" units="1" version="1.0"/>
+</session>

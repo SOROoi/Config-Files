@@ -1,0 +1,37 @@
+package MySQL数据库;
+
+/*						MySQL数据库
+ 	1.数据库简介
+			1.商用收费：	SQL Server：	--微软的数据库产品
+						Oracle：		--Oracle公司
+			
+			2.免费：		MySQL：		--Oracle公司收购
+						DB2：		--IBM公司，银行证券用
+						SyBase：		--少见
+
+	2. MySQL介绍
+			1.起源：
+				MySQL由瑞典MySQL AB公司开发,目前属于 Oracle公司
+
+			2.简介：
+				1.MySQL是一个开源的关系型数据库管理系统
+				2.MySQL分为社区版(Community Server )和企业版(Enterprise Editions)
+				
+	3. MySQL下载、安装和配置
+			1.下载
+				从官网下载即可，地址：https://dev.mysql.com/downloads/mysql/
+				
+			2.MySQL安装方式
+				1.MSI安装(Windows Installer)
+				2.ZIP安装	--初学者较难掌握
+
+
+
+
+*/
+
+
+
+public class MySQL详解 {
+
+}

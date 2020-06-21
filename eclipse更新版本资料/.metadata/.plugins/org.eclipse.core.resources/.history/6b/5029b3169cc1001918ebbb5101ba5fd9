@@ -1,0 +1,15 @@
+package spring;
+
+public class A {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr = new int[]{5,45,67,8,145,7,3,89};
+		paixu(arr);
+	}
+
+	public int[] paixu(int[] arr) {
+		
+		return null;
+	}
+}

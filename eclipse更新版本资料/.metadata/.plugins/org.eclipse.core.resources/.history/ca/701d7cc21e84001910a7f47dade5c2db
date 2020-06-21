@@ -1,0 +1,24 @@
+package p1_oracle安装;
+
+/*						Oracle数据库的安装
+ 	1.安装在什么系统
+ 		1.Windows XP：	可直接安装。
+ 		2.Windows 7/8:	需以管理员身份运行setup，以兼容性模式启动
+
+ 	2.安装前准备：
+ 		1.安装包：如 Oracle 10G 安装包，可在D:/我的资料/软件安装包 中、百度云盘中找到。
+ 		2.系统：当前系统的是否为Windows，Windows下可点击安装包下setup进行安装；若为Linux则网上另找安装教程，略。
+	
+	3.安装流程：
+		见‘ 安装.pdf ’有详细步骤
+	
+ */
+
+/*						连接Oracle数据库
+
+
+ */
+
+public class Oracle安装 {
+
+}

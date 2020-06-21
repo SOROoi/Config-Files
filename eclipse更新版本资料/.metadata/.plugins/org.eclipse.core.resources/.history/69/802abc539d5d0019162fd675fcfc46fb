@@ -1,0 +1,18 @@
+package wxt;
+
+import javax.servlet.GenericServlet;
+import java.io.OutputStream;
+import javax.servlet.ServletOutputStream;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+import javax.servlet.ServletException;
+
+public class FirstServlet extends GenericServlet{
+   
+   public void service(ServletRequest req,ServletResponse res)throws ServletException,java.io.IOException{
+       OutputStream out= res.getOutputStream();
+       out.write("Hello Servlet".getBytes());
+   }
+        
+}
+    

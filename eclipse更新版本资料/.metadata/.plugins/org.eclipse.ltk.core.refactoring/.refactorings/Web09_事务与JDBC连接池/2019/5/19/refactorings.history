@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;事务&apos; to &apos;事务与JDBC连接池&apos;&#x0D;&#x0A;- Original project: &apos;Web09_事务与JDBC&apos;&#x0D;&#x0A;- Original element: &apos;Web09_事务与JDBC/src/事务&apos;&#x0D;&#x0A;- Renamed element: &apos;Web09_事务与JDBC/src/事务与JDBC连接池&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;事务&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;事务" name="事务与JDBC连接池" qualified="false" references="true" stamp="1557314451404" textual="false" version="1.0"/>
+</session>

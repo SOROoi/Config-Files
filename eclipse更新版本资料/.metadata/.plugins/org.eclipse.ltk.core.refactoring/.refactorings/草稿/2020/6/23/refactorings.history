@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;各URL的默认路径.java&apos; to &apos;Web04_Servlet开发/src/p1_Servlet开发介绍&apos;&#x0D;&#x0A;- Original project: &apos;草稿&apos;&#x0D;&#x0A;- Destination element: &apos;Web04_Servlet开发/src/p1_Servlet开发介绍&apos;&#x0D;&#x0A;- Original element: &apos;序列化与反序列化.各URL的默认路径.java&apos;" description="Copy compilation unit" destination="=Web04_Servlet开发/src&lt;p1_Servlet开发介绍" element1="/src&lt;序列化与反序列化{各URL的默认路径.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1591283972958" units="1" version="1.0"/>
+</session>

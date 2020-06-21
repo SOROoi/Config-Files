@@ -1,0 +1,8 @@
+package redis;
+/*
+ * 	使用Java程序操作redis数据库
+ * 
+ */
+public class Demo1 {
+
+}

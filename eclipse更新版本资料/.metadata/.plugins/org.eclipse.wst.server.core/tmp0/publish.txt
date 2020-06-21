@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Jun 13 18:07:54 CST 2020
+org.eclipse.jst.jee.server\:/binary\:D\:\\Maven\\repository\\org\\springframework\\spring-web\\5.1.5.RELEASE\\spring-web-5.1.5.RELEASE.jar=G\:\\apache-tomcat-8.5.39\\wtpwebapps\\Web20_SpringMVC_Day1\\WEB-INF\\lib\\spring-web-5.1.5.RELEASE.jar
+org.eclipse.jst.jee.server\:Web20_SpringMVC_Day1=G\:\\apache-tomcat-8.5.39\\wtpwebapps\\Web20_SpringMVC_Day1

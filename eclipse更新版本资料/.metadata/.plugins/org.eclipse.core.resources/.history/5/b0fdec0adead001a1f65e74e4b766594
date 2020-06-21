@@ -1,0 +1,100 @@
+package springboot;
+
+/*								 1.SpringBoot详解
+	
+	1. SpringBoot简介
+		1.Spring是Java企业版（Java Enterprise Edition，JEE，也称J2EE）的轻量级代替品。
+		2.SpringBoot对 Spring的缺点进行的改善和优化，基于约定优于配置的思想，可以让开发人员不必在配置与逻辑业务之间进行思维的切换，全身
+		    心的投入到逻辑业务的代码编写中。
+	    
+	2. SpringBoot的特点
+	    1.为基于Spring的开发提供更快的入门体验。
+		2.开箱即用，没有代码生成，也无需XML配置。同时也可以修改默认值来满足特定的需求。
+		3.提供了一些大型项目中常见的非功能性特性，如嵌入式服务器、安全、指标，健康检测、外部配置等。
+		4.SpringBoot不是对Spring功能上的增强，而是提供了一种快速使用Spring的方式
+
+
+	3. SpringBoot的核心功能
+	
+		1.起步依赖：	起步依赖本质上是一个Maven项目对象模型（Project Object Model，POM），就是将具备某种功能的坐标打包到一起，并提供
+				      一些默认的功能。
+
+		2.自动配置：	Spring Boot的自动配置是一个运行时（更准确地说，是应用程序启动时）的过程，考虑了众多因素，才决定Spring配置应该用
+				      哪个，不该用哪个。该过程是Spring自动完成的。
+
+ */
+
+
+/*								(idea) 创建一个SpringBoot项目
+
+ 	1.创建一个 maven工程。
+ 	
+ 	
+ 	2.添加 SpringBoot 的起步依赖：	
+ 		1.在pom.xml中，添加 SpringBoot 的起步依赖spring-boot-starter-parent。
+ 		2.所有springboot工程都需要继承 spring-boot-starter-parent.
+ 		
+ 		例：	
+ 			<parent>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-parent</artifactId>
+				<version>2.0.1.RELEASE</version>
+			</parent>
+
+
+	3.导入web的启动依赖：
+ 		1.集成 SpringMVC 进行 Controller的开发，需要导入此坐标。
+ 		2. web 功能的起步依赖。
+ 		
+ 		例：		
+ 			<dependencies>
+				<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-web</artifactId>
+				</dependency>
+			</dependencies>
+ 
+ 
+ 	4.编写 SpringBoot引导类：
+ 		1.要通过SpringBoot提供的引导类起步，SpringBoot才可以进行访问。
+ 		2.引导类需要添加 @SpringBootApplication，表示该类为引导类，该注解具备多种功能。
+ 		3.引导类中提供 main方法，main方法中执行：SpringApplication.run(引导类.class)
+
+ 		例：
+ 			@SpringBootApplication
+			public class MySpringBootApplication {
+			
+				public static void main(String[] args) {
+					SpringApplication.run(MySpringBootApplication.class);
+				}
+				
+			}
+
+	5.编写 controller类：
+		1.在引导类 MySpringBootApplication 同级包 或者子包中，创建 Controller类。
+		2. controller类上添加注解 @Controller。
+
+ */
+
+/*								(eclipse) 创建一个SpringBoot项目
+
+
+ */
+
+/*								 热部署
+ * 
+	1.热部署
+		1.修改代码后不重启就能生效，称之为热部署。
+		2.在 pom.xml 中添加如下配置：	(功能坐标)
+						<dependency>
+							<groupId>org.springframework.boot</groupId>
+							<artifactId>spring-boot-devtools</artifactId>
+						</dependency>
+
+	2.
+	
+
+ */
+public class SpringBoot详解 {
+
+}

@@ -1,0 +1,7 @@
+package wxt.bean;
+
+import java.io.Serializable;
+
+public class SysLog implements Serializable {
+
+}

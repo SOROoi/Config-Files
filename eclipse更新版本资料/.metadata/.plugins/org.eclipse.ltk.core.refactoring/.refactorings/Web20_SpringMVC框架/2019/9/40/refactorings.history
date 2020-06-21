@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;log4j.properties&apos; to &apos;Web20_SpringMVC_SSM/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;Web20_SpringMVC框架&apos;&#x0D;&#x0A;- Destination element: &apos;Web20_SpringMVC_SSM/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;log4j.properties&apos;" description="Copy file" destination="=Web20_SpringMVC_SSM/src\/main\/resources" element1="src/随堂资料/log4j.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1569734470027" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+package wxt.service.imp;
+
+import wxt.bean.SysLog;
+import wxt.service.ILogService;
+
+public class LogService implements ILogService {
+
+	@Override
+	public void addLog(SysLog log) throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

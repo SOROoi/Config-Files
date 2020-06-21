@@ -1,0 +1,14 @@
+package p2_HTTP协议;
+/*
+	什么是HTTP协议
+			客户端连上web服务器后，若想获得web服务器中的某个web资源，需遵守一定的通讯格式，
+			HTTP协议用于,定义客户端与web服务器通讯的格式。
+			
+	使用telnet程序连上web服务器，并使用HTTP协议获取某个页面，快速了解 HTTP协议的作用
+			telnet程序是Windows自带的网络客户端软件
+ 
+ 
+ */
+public class Http协议 {
+
+}

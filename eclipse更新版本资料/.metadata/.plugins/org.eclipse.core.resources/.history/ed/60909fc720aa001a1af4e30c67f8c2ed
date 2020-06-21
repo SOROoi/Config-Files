@@ -1,0 +1,5 @@
+package wxt.controller;
+
+public class LogController {
+
+}

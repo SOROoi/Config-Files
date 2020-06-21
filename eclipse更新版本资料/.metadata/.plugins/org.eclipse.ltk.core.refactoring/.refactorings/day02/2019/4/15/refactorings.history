@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Book.xml&apos; to &apos;Web02_XML练习/src&apos;&#x0D;&#x0A;- Original project: &apos;day02&apos;&#x0D;&#x0A;- Destination element: &apos;Web02_XML练习/src&apos;&#x0D;&#x0A;- Original element: &apos;Book.xml&apos;" description="Copy file" destination="=Web02_XML练习/src" element1="src/Book.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1554787029492" units="0" version="1.0"/>
+</session>

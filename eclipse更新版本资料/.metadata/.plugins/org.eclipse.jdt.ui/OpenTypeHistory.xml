@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Web19_Spring_AOP/src\/main\/java&lt;wxt.service{ServiceIn.java[ServiceIn" modifiers="513" timestamp="1564916851765"/>
+<typeInfo handle="=Web20_SpringMVC_Day2_FileUpload/D:\/Maven\/repository\/org\/springframework\/spring-webmvc\/5.1.5.RELEASE\/spring-webmvc-5.1.5.RELEASE.jar&lt;org.springframework.web.servlet(HandlerExceptionResolver.class[HandlerExceptionResolver" modifiers="1537" timestamp="1566806631006"/>
+<typeInfo handle="=Web20_SpringMVC_Day2_Interceptor/D:\/Maven\/repository\/org\/springframework\/spring-aop\/5.1.5.RELEASE\/spring-aop-5.1.5.RELEASE.jar&lt;org.aopalliance.intercept(Interceptor.class[Interceptor" modifiers="1537" timestamp="1563266495550"/>
+<typeInfo handle="=Web20_SpringMVC_SSM/src\/main\/java&lt;wxt.service{IService.java[IService" modifiers="513" timestamp="1569742578125"/>
+<typeInfo handle="=Web22_SSM/src\/main\/java&lt;wxt.service{IProductService.java[IProductService" modifiers="513" timestamp="1591715760922"/>
+<typeInfo handle="=Web22_SSM/D:\/Maven\/repository\/org\/springframework\/spring-core\/5.1.5.RELEASE\/spring-core-5.1.5.RELEASE.jar&lt;org.springframework.cglib.core(Converter.class[Converter" modifiers="1537" timestamp="1563266497085"/>
+<typeInfo handle="=Web22_SSM/D:\/Maven\/repository\/org\/springframework\/spring-core\/5.1.5.RELEASE\/spring-core-5.1.5.RELEASE.jar&lt;org.springframework.core.convert.converter(Converter.class[Converter" modifiers="1537" timestamp="1563266497085"/>
+<typeInfo handle="=Web22_SSM/src\/main\/java&lt;wxt.service{IOrderService.java[IOrderService" modifiers="513" timestamp="1576551058707"/>
+<typeInfo handle="=Web22_SSM/src\/main\/java&lt;wxt.service{IUserService.java[IUserService" modifiers="513" timestamp="1578538437800"/>
+<typeInfo handle="=Web22_SSM/src\/main\/java&lt;wxt.service{IRoleService.java[IRoleService" modifiers="513" timestamp="1578618991344"/>
+<typeInfo handle="=Web22_SSM/src\/main\/java&lt;wxt.service{IPermissionService.java[IPermissionService" modifiers="513" timestamp="1578542520039"/>
+<typeInfo handle="=草稿/src&lt;动态代理{Inter.java[Inter" modifiers="513" timestamp="1582029283200"/>
+<typeInfo handle="=草稿/G:\/JavaRE\/lib\/rt.jar&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1525586934006"/>
+<typeInfo handle="=UploadTest/src\/main\/java&lt;wxt.service{ServiceDao.java[ServiceDao" modifiers="513" timestamp="1591283384586"/>
+<typeInfo handle="=Web18_Mybatis/G:\/JavaRE\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1525586934006"/>
+<typeInfo handle="=Web22_SSM/src\/main\/java&lt;wxt.service{ILogService.java[ILogService" modifiers="513" timestamp="1591712413826"/>
+</typeInfoHistroy>

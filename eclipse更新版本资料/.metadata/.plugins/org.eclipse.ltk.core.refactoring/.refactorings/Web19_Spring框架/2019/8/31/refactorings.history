@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Web19_Spring框架/src/spring/p3_AOP通知的类型.jpg&apos; to &apos;p4_AOP通知的类型.jpg&apos;" description="Rename resource &apos;p3_AOP通知的类型.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/spring/p3_AOP通知的类型.jpg" name="p4_AOP通知的类型.jpg" stamp="1564830919252" updateReferences="true"/>
+</session>

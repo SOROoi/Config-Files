@@ -1,0 +1,31 @@
+package springboot;
+
+/*								 1.SpringBoot详解
+	
+	1. SpringBoot简介
+		1.Spring是Java企业版（Java Enterprise Edition，JEE，也称J2EE）的轻量级代替品。
+		2.SpringBoot对 Spring的缺点进行的改善和优化，基于约定优于配置的思想，可以让开发人员不必在配置与逻辑业务之间进行思维的切换，全身
+		    心的投入到逻辑业务的代码编写中。
+	    
+	2. SpringBoot的特点
+	    1.为基于Spring的开发提供更快的入门体验。
+		2.开箱即用，没有代码生成，也无需XML配置。同时也可以修改默认值来满足特定的需求。
+		3.提供了一些大型项目中常见的非功能性特性，如嵌入式服务器、安全、指标，健康检测、外部配置等。
+		4.SpringBoot不是对Spring功能上的增强，而是提供了一种快速使用Spring的方式
+
+
+	3. SpringBoot的核心功能
+	
+		1.起步依赖：	起步依赖本质上是一个Maven项目对象模型（Project Object Model，POM），就是将具备某种功能的坐标打包到一起，并提供
+				      一些默认的功能。
+
+		2.自动配置：	Spring Boot的自动配置是一个运行时（更准确地说，是应用程序启动时）的过程，考虑了众多因素，才决定Spring配置应该用
+				      哪个，不该用哪个。该过程是Spring自动完成的。
+
+ */
+
+/*								 创建一个SpringBoot项目
+
+public class SpringBoot详解 {
+
+}

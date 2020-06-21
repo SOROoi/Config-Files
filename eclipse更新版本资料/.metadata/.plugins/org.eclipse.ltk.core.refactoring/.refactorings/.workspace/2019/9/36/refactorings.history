@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Web20_SpringMVC&apos; to &apos;Web20_SpringMVC_Day1&apos;" description="Rename resource &apos;Web20_SpringMVC&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Web20_SpringMVC" name="Web20_SpringMVC_Day1" stamp="1567481989457" updateReferences="true"/>
+</session>

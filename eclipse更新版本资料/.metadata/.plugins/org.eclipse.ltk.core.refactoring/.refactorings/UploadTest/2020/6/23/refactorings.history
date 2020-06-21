@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;UploadTest/src/main/java/WXT&apos; to &apos;wxt&apos;" description="Rename resource &apos;WXT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/WXT" name="wxt" stamp="1591282931740" updateReferences="true"/>
+</session>

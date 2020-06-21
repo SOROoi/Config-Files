@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://www.springframework.org/schema/mvc/spring-mvc.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/mvc/spring-mvc.xsd"/>
+  <system systemId="http://www.springframework.org/schema/aop/spring-aop.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/aop/spring-aop.xsd"/>
+  <system systemId="http://www.springframework.org/schema/beans/spring-beans.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/beans/spring-beans.xsd"/>
+  <system systemId="http://www.springframework.org/schema/cache/spring-cache.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/cache/spring-cache.xsd"/>
+  <system systemId="http://www.springframework.org/schema/context/spring-context.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/context/spring-context.xsd"/>
+  <system systemId="http://www.springframework.org/schema/jdbc/spring-jdbc.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/jdbc/spring-jdbc.xsd"/>
+  <system systemId="http://www.springframework.org/schema/jee/spring-jee.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/jee/spring-jee.xsd"/>
+  <system systemId="http://www.springframework.org/schema/jms/spring-jms.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/jms/spring-jms.xsd"/>
+  <system systemId="http://www.springframework.org/schema/oxm/spring-oxm.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/oxm/spring-oxm.xsd"/>
+  <system systemId="http://www.springframework.org/schema/task/spring-task.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/task/spring-task.xsd"/>
+  <system systemId="http://www.springframework.org/schema/tool/spring-tool.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/tool/spring-tool.xsd"/>
+  <system systemId="http://www.springframework.org/schema/tx/spring-tx.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/tx/spring-tx.xsd"/>
+  <system systemId="http://www.springframework.org/schema/util/spring-util.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/util/spring-util.xsd"/>
+  <system systemId="http://www.springframework.org/schema/websocket/spring-websocket.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/websocket/spring-websocket.xsd"/>
+  <system systemId="http://www.springframework.org/schema/lang/spring-lang.xsd" uri="file:///G:/JD_Xml_xsd/spring-framework-5.1.5.RELEASE-schema/lang/spring-lang.xsd"/>
+</catalog>

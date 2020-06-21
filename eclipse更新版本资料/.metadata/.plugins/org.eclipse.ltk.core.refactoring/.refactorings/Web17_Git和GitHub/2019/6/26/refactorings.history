@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;学会Git玩转Github.doc&apos; to &apos;Web17_Git和GitHub/src/git的使用&apos;&#x0D;&#x0A;- Original project: &apos;Web17_Git和GitHub&apos;&#x0D;&#x0A;- Destination element: &apos;Web17_Git和GitHub/src/git的使用&apos;&#x0D;&#x0A;- Original element: &apos;学会Git玩转Github.doc&apos;" description="Copy file" destination="/src&lt;git的使用" element1="src/教案/学会Git玩转Github.doc" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1561704462516" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,29 @@
+package p1_web开发介绍;
+/*
+	Internet上供外界访问的Web资源分为：
+			静态web资源（如html 页面）：指web页面中供人们浏览的数据始终是不变。
+						(静态web资源开发技术: Html)
+						
+			动态web资源：指web页面中供人们浏览的数据是由程序产生的，不同时间点访问web页面看到的内容各不相同。
+						(常用动态web资源开发技术：JSP/Servlet、ASP、PHP等,
+						在Java中，动态web资源开发技术统称为Javaweb)
+	
+	WEB服务器
+			学习web开发，需要先安装一台web服务器，然后再在web服务器中开发相应的web资源，供用户使用浏览器访问。
+			
+
+	常见WEB服务器
+			WebLogic: BEA公司的产品，是目前应用最广泛的Web服务器，支持J2EE规范，而且不断的完善以适应新的开发要求.(收费)
+			WebSphere：IBM公司，支持J2EE规范。(收费)
+			Tomcat：该服务器支持全部JSP以及Servlet规范。(免费)
+			
+	下载Tomcat服务器
+			Tomcat官方站点：http://jakarta.apache.org
+			获取Tomcat安装程序包
+			tar.gz文件是Linux操作系统下的安装版本
+			exe文件是Windows系统下的安装版本
+			zip文件是Windows系统下的压缩版本 
+ */
+public class WebDevelop {
+
+}

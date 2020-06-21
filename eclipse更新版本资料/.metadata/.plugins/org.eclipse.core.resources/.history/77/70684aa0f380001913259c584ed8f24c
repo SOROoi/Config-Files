@@ -1,0 +1,24 @@
+package redis;
+
+import org.junit.Test;
+
+import redis.clients.jedis.Jedis;
+
+/*
+ * 	使用Java程序操作redis数据库
+ * 
+ */
+public class Demo1 {
+	
+	@Test
+	public void test() {
+		
+		//1、获得数据库对象
+		Jedis jedis = new Jedis("192.168.154.128",6379);
+		
+		//2、获得数据
+		String name = jedis.get("username");
+		
+		
+	}
+}

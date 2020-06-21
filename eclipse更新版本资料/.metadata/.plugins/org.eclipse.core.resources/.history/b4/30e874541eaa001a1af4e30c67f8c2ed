@@ -1,0 +1,6 @@
+package wxt.service;
+
+public interface ILogService {
+
+	public void addLog() throws Exception;
+}

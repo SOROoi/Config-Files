@@ -1,0 +1,23 @@
+package p1_Servlet开发介绍;
+/*	
+ 	1.Servlet简介
+ 			1.1 Servlet是sun公司提供的一门用于开发动态web资源的技术。
+ 			
+ 			1.2 Sun公司在其API中提供了一个servlet接口，用户若想用发一个动态web资源(即开发一个Java程序向浏览器
+ 			输出数据)，需要完成以下2个步骤：
+				1.编写一个Java类，实现servlet接口。
+				2.把开发好的Java类部署到web服务器中。
+ 			
+ 			1.3 阅读Servlet API，解决两个问题：	(Servlet3.1 API 在浏览器书签内)	
+				1.输出hello servlet的java代码应该写在servlet的哪个方法内？
+				2.如何向IE浏览器输出数据？
+				
+			1.4 导入jar包
+				编写Servlet程序,JDK1.8中无Servlet的jar包，需导入Servlet的jar包，该jar包位置在tomcat下：lib\servlet-api.jar
+				
+ 	
+ 
+ */
+public class Servlet开发 {
+
+}

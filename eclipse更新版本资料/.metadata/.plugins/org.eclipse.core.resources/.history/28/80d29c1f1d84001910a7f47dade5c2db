@@ -1,0 +1,14 @@
+package p1_oracle安装;
+
+/*						Oracle数据库的安装
+ 	1.安装在什么系统
+ 		1.Windows XP：	可直接安装。
+ 		2.Windows 7/8:	需以管理员身份运行setup，以兼容性模式启动
+
+ 
+
+ */
+
+public class Oracle安装 {
+
+}

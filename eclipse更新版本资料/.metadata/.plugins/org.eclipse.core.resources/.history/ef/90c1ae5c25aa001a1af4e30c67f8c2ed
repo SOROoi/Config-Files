@@ -1,0 +1,38 @@
+package wxt.service.imp;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Propagation;
+import org.springframework.transaction.annotation.Transactional;
+
+import wxt.bean.SysLog;
+import wxt.dao.ILogDao;
+import wxt.service.ILogService;
+
+@Service
+@Transactional(propagation=Propagation.REQUIRED,readOnly=false)
+public class LogService implements ILogService {
+
+	@Autowired
+	private ILogDao logDao;
+	
+	//SysLog存储到数据库
+	@Override
+	public void addLog(SysLog log) throws Exception {
+		// TODO Auto-generated method stub
+		logDao.addLog(log);
+	}
+
+	//封装 数据库所有 syslog表
+	@Override
+	public List<SysLog> findAll() throws Exception {
+		List<SysLog> list = logDao.findAll();
+		return list;
+		
+	}
+	
+
+
+}

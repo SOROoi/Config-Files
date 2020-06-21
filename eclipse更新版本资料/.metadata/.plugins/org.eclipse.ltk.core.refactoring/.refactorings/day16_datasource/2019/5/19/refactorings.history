@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;context.xml&apos; to &apos;Web09_事务与JDBC/src/Tomcat连接池&apos;&#x0D;&#x0A;- Original project: &apos;day16_datasource&apos;&#x0D;&#x0A;- Destination element: &apos;Web09_事务与JDBC/src/Tomcat连接池&apos;&#x0D;&#x0A;- Original element: &apos;context.xml&apos;" description="Copy file" destination="=Web09_事务与JDBC/src&lt;Tomcat连接池" element1="WebRoot/META-INF/context.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1557382146833" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+package wxt.service;
+/**
+ * 业务层接口
+ * @author asus pc
+ *
+ */
+public interface IProductService {
+
+}

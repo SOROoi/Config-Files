@@ -1,0 +1,5 @@
+package wxt.service;
+
+public interface ILogService {
+
+}

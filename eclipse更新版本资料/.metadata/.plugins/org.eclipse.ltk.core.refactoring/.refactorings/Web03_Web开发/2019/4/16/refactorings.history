@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;p1_web开发介绍.Web服务器Tomcat&apos; to &apos;Tomcat服务器&apos;&#x0D;&#x0A;- Original project: &apos;Web03_Web开发&apos;&#x0D;&#x0A;- Original element: &apos;p1_web开发介绍.Web服务器Tomcat&apos;&#x0D;&#x0A;- Renamed element: &apos;p1_web开发介绍.Tomcat服务器&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Web服务器Tomcat&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;p1_web开发介绍{Web服务器Tomcat.java[Web服务器Tomcat" matchStrategy="1" name="Tomcat服务器" qualified="false" references="true" similarDeclarations="false" stamp="1555563762104" textual="false" version="1.0"/>
+</session>

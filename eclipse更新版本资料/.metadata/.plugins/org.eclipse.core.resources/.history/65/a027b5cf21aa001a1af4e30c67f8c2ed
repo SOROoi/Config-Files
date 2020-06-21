@@ -1,0 +1,14 @@
+package wxt.dao;
+
+import org.apache.ibatis.annotations.Insert;
+import org.springframework.stereotype.Repository;
+
+import wxt.bean.SysLog;
+
+@Repository
+public interface ILogDao {
+
+	@Insert("insert into sysLog(visitTime,username,ip,url,executionTime,method) values(#{visitTime},"
+			+ "#{username},#{ip},#{url},#{executionTime},#{method})")
+	public void addLog(SysLog log) throws Exception;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;cn.itcast.form&apos; to &apos;防止重复提交表单form&apos;&#x0D;&#x0A;- Original project: &apos;Web06_Cookie_Session&apos;&#x0D;&#x0A;- Original element: &apos;Web06_Cookie_Session/src/cn.itcast.form&apos;&#x0D;&#x0A;- Renamed element: &apos;Web06_Cookie_Session/src/防止重复提交表单form&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;cn.itcast.form&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;cn.itcast.form" name="防止重复提交表单form" qualified="false" references="true" stamp="1556276188104" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Web12_AJAX/src/util.jdbcutil&apos;&#x0D;&#x0A;- Original project: &apos;Web08_JDBC操作&apos;&#x0D;&#x0A;- Destination element: &apos;Web12_AJAX/src/util.jdbcutil&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jdbc_lob.JdbcUtil.java&#x0D;&#x0A;     db.properties" description="Copy elements" destination="=Web12_AJAX/src&lt;util.jdbcutil" element1="src/jdbc_lob/db.properties" element2="/src&lt;jdbc_lob{JdbcUtil.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1557641970346" units="1" version="1.0"/>
+</session>

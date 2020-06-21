@@ -1,0 +1,10 @@
+package wxt.service;
+
+import wxt.bean.SysLog;
+
+public interface ILogService {
+
+	public void addLog(SysLog log) throws Exception;
+	
+	public void findAll() throws Exception;
+}

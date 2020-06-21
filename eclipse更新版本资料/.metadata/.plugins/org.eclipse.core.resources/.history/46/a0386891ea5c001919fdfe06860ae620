@@ -1,0 +1,22 @@
+package p2_HTTP协议;
+/*
+	什么是HTTP协议
+			客户端连上web服务器后，若想获得web服务器中的某个web资源，需遵守一定的通讯格式，
+			HTTP协议用于,定义客户端与web服务器通讯的格式。
+			
+	客户端向服务器发送的请求需包含：想要访问的
+			协议、IP、端口号、主机名(为IP时默认为localhost)、虚拟目录(无该项时，访问对应主机名下(Connector标签中)path="" 对应的，
+																				已配置好web.xml的web应用的主页)
+			
+	使用telnet程序连上web服务器，并使用HTTP协议获取某个页面，快速了解 HTTP协议的作用
+			telnet程序是Windows自带的网络客户端软件，可以访问互联网上任何一台服务器。
+			操作：1.打开命令行
+				 2.输入： telnet localhost 8080	(代表连接localhost服务器的8080端口程序)
+				 3.以http协议发送请求：  GET /aa/1.html HTTP/1.1	(获取应用资源)(以http协议形式)
+				 					  Host:						(指定指定主机下的资源，不写默认localhost )
+ 
+ 
+ */
+public class Http协议 {
+
+}

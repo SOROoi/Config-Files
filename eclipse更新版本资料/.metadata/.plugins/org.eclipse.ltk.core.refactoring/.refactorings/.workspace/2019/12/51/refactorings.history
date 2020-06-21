@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringSecurity_Practise&apos; to &apos;Web22_SpringSecurity_Practise&apos;" description="Rename resource &apos;SpringSecurity_Practise&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringSecurity_Practise" name="Web22_SpringSecurity_Practise" stamp="1576563919750" updateReferences="true"/>
+</session>

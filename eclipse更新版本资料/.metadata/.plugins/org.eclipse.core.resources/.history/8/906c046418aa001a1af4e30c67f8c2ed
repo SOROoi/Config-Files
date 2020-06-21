@@ -1,0 +1,23 @@
+package wxt.bean;
+
+import java.io.Serializable;
+import java.sql.Timestamp;
+
+public class SysLog implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+	private String id;				//主键
+	private String username;		//用户名
+	private String ip;				//访问者IP
+	private Timestamp visitTime;	//访问时间
+	private String visitTimeStr;	
+	private Integer executionTime;	//执行时长
+	private String url;				//资源URL
+	private String method;			//访问方法
+	
+
+}
