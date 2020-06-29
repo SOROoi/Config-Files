@@ -47,7 +47,7 @@
     	
     </security:http>
     
-    <!-- 3.绑定校验程序  已实现的 UserDetailsService 类-->
+    <!-- 3.绑定校验程序  已实现 UserDetailsService 接口-->
     <security:authentication-manager>
     	<security:authentication-provider user-service-ref="userService">
     		<!-- 配置加密的方式，加密 表单提交的密码  	若数据库中密码为原始密码，则不要配置此加密方式 -->
