@@ -1,0 +1,42 @@
+server:
+  port: 8800
+  
+spring:
+  application:
+    name: Zuul	#显示在Eureka中的服务名
+    
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8888/eureka
+                
+ribbon:
+  ConnectTimeout: 1000 #请求连接的超时时间
+  ReadTimeout: 4800 #请求处理的超时时间
+  
+hystrix:
+  command:
+    default:
+        execution:
+          isolation:
+            thread:
+              timeoutInMilliseconds: 4000 # 设置hystrix的超时时间为4000ms，默认1000ms
+
+feign:
+  client: 
+    config: 
+      default: 
+        connect-timeout: 1000  #设置Feign连接超时时间
+        read-timeout: 4000  #设置Feign读取超时时间
+  hystrix:
+    enabled: true # 开启Feign的熔断功能
+        
+zuul:
+  prefix: /api		 # 全局路由前缀
+  routes:
+    first:
+      path: /customer-service/** 
+      service-id: customer
+      strip-prefix:false      # 去除前缀(映射到服务中时，去除path),默认true
+  ignored-services:  
+    - customer      # 指定服务名，不添加 默认路由规则
